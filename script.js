@@ -69,7 +69,7 @@ const trayectoriaData = [
     info: "pandamc.us | 19132",
   },
   {
-    nombre: "EskMC Network",
+    nombre: "EskMC",
     rol: "Media Manager",
     descripcion:
       "Servidor de Minecraft.",
@@ -109,6 +109,13 @@ const trayectoriaData = [
     descripcion:
       "Servidor de Minecraft.",
     info: "minesky.us",
+  },
+  {
+    nombre: "MineDay",
+    rol: "Media Manager",
+    descripcion:
+      "Servidor de Minecraft.",
+    info: "mineday.us",
   },
 ];
 
