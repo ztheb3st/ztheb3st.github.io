@@ -96,6 +96,13 @@ const trayectoriaData = [
       "Servidor de Minecraft.",
     info: "mineghoul.us",
   },
+  {
+    nombre: "Bundercraft",
+    rol: "Media Manager",
+    descripcion:
+      "Servidor de Minecraft.",
+    info: "bundercraft.us",
+  },
 ];
 
 function renderTrayectoria() {
